@@ -1,0 +1,10 @@
+[project]
+name = "unslothproject"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13.11"
+dependencies = [
+    "jupyterlab>=4.5.1",
+    "unsloth>=2026.1.2",
+]

@@ -1,0 +1,286 @@
+[
+  {
+    "prompt": "What is in your Mysore Cappuccino?",
+    "response": "Our Mysore Cappuccino is a luxurious twist on the classic. It features a double shot of our God's Own Espresso Blend, steamed milk, and a special house-made Mysore masala syrup (cardamom, nutmeg, and a hint of sandalwood). Topped with dense microfoam and a dusting of cocoa with saffron strands. It's a royal experience inspired by the palaces of Mysore."
+  },
+  {
+    "prompt": "Tell me about your Turmeric Ginger Coffee.",
+    "response": "Our wellness-focused 'Golden Brew' combines our medium-roast Arabica with freshly grated turmeric root, ginger, black pepper (for curcumin absorption), and a touch of raw honey. Served with oat milk or coconut milk. It's caffeine-light, anti-inflammatory, and perfect for immunity boosting. We source turmeric from Kerala's Erode market."
+  },
+  {
+    "prompt": "Do you have any monsoon special drinks?",
+    "response": "Yes! Our 'Monsoon Mint Filter Coffee' is a seasonal hit. It's our classic filter coffee infused with fresh peppermint leaves and a dash of clove, served extra hot. We also offer 'Malabar Spice Cold Brew' with star anise and cinnamon during rains. Available from June to September."
+  },
+  {
+    "prompt": "What pastry pairs best with your light roast single-origin?",
+    "response": "Our light roast Pulney Hills Arabica (with notes of citrus and caramel) pairs beautifully with our lemon almond cake or orange madeline. The citrus notes complement each other. For a savory option, try our mild cheddar scone. We have a pairing menu in-store with detailed tasting notes."
+  },
+  {
+    "prompt": "My South Indian filter coffee tastes too weak. What am I doing wrong?",
+    "response": "Weak coffee usually means: 1) Grind too coarse - use fine sand consistency. 2) Not enough coffee - use 2 heaped tablespoons per cup. 3) Tamping too lightly - press gently but firmly. 4) Water too hot - use 92-94°C water. 5) Brewing time too short - let it drip for at least 20 minutes. We have a troubleshooting guide on our website with pictures."
+  },
+  {
+    "prompt": "My espresso from your beans tastes bitter. How to fix?",
+    "response": "Bitterness means over-extraction. Try: 1) Coarser grind size. 2) Shorter extraction time (aim for 25-27 seconds). 3) Lower water temperature (90-92°C). 4) Reduce dose by 0.5g. 5) Ensure your machine is clean - backflush weekly. Our espresso blend works best at 19g dose, 92°C, 27 seconds for 38g yield."
+  },
+  {
+    "prompt": "How can I froth milk at home without a steamer?",
+    "response": "Three easy methods: 1) French Press: Heat milk to 65°C, pour in, pump plunger vigorously for 30 seconds. 2) Jar Method: Shake hot milk in a mason jar for 60 seconds, then microwave for 30 seconds to stabilize. 3) Whisk: Use a handheld milk frother (we sell them for ₹499). Use full-fat milk or barista-grade oat milk for best results."
+  },
+  {
+    "prompt": "What is the price of your Monsooned Malabar 250g pack?",
+    "response": "Our Monsooned Malabar Arabica (250g) is ₹850. The Robusta version is ₹750. Prices include GST. We offer 10% off on subscription, 15% off on orders above 2kg, and free shipping on orders above ₹1500 in the city."
+  },
+  {
+    "prompt": "Do you offer wedding bulk discounts?",
+    "response": "Yes! For weddings, we offer: 1) 25% discount on 10kg+ orders. 2) Custom labeling with couple's names/date. 3) Free sampler kits for guests. 4) Optional coffee brewing station at venue. Minimum order 2 weeks in advance. Contact weddings@keralacoffee.com for our wedding brochure."
+  },
+  {
+    "prompt": "Can I get a gift hamper for Diwali?",
+    "response": "We have three Diwali hampers: 1) Premium (₹3000): 500g beans, brass filter, davara set, spice blend, organic jaggery. 2) Classic (₹2000): 250g beans, ceramic mugs, chocolate coffee beans. 3) Mini (₹1000): 100g of 3 varieties. All come in reusable handwoven baskets with free gift wrap and personalized note."
+  },
+  {
+    "prompt": "Which is stronger - Malabar or Nilgiri?",
+    "response": "For caffeine strength: Nilgiri Robusta has 2.4% caffeine, Malabar Arabica has 1.6%. For flavor strength: Malabar is bolder and earthier, Nilgiri is brighter but still full-bodied. If you want maximum kick, choose Nilgiri Robusta. For intense flavor without extreme caffeine, choose Monsooned Malabar."
+  },
+  {
+    "prompt": "What is your return policy for unopened beans?",
+    "response": "We accept returns of unopened, sealed bags within 7 days of delivery for full refund. The beans must be in original condition with roast date visible. Please initiate return via your account or email care@keralacoffee.com. Once received and verified, refund is processed in 5-7 business days. Opened bags cannot be returned for hygiene reasons."
+  },
+  {
+    "prompt": "What are your shipping areas and charges?",
+    "response": "We deliver across the city for ₹30 (orders under ₹500) or free (above ₹500). For other cities: Standard shipping (3-5 days) costs ₹100 for 500g. Express (1-2 days) costs ₹200. We ship pan-India except remote NE regions. International shipping to US/UK/UAE costs ₹1500 for 500g via DHL (7-10 days)."
+  },
+  {
+    "prompt": "How does your loyalty program work?",
+    "response": "Our 'Kaapi Points' program: Earn 1 point per ₹10 spent. 100 points = ₹50 off. Additional benefits: Double points on birthdays, early access to new harvests, free upgrade to express shipping, and exclusive member-only workshops. Points never expire. Sign up on our app or website."
+  },
+  {
+    "prompt": "I want to stock your coffee in my restaurant. How does partnership work?",
+    "response": "We offer B2B partnerships: 1) Supply only (beans/ground) at 30% wholesale discount. 2) Supply + equipment lease (espresso machine, grinder). 3) Complete solution with staff training. MOQ is 5kg/month. We provide branded menu cards and table tents. Email partners@keralacoffee.com for our partnership deck and tasting session."
+  },
+  {
+    "prompt": "What organic certifications do you have?",
+    "response": "Our beans are certified by: 1) India Organic (NPOP). 2) USDA Organic (for exports). 3) EU Organic. 4) Rainforest Alliance. Certificates are available on our website. We're also in process of getting Demeter Biodynamic certification for our Wayanad estate."
+  },
+  {
+    "prompt": "How do you conserve water in processing?",
+    "response": "We use: 1) Recirculation systems in wet mills that reduce water use by 80%. 2) Solar drying instead of mechanical dryers. 3) Rainwater harvesting at estates. 4) Treating and reusing wastewater for irrigation. Our water footprint is 60% lower than industry average. Detailed report in our sustainability section."
+  },
+  {
+    "prompt": "Is your packaging compostable?",
+    "response": "Yes! Our coffee bags are made from 100% compostable materials: outer layer of recycled kraft paper, inner lining of cornstarch-based PLA, and a plant-based degassing valve. They break down in industrial compost in 90 days. At home, remove valve and add to compost - takes 6-8 months. We also offer glass jar returns for 10% off next purchase."
+  },
+  {
+    "prompt": "Do you support wildlife conservation?",
+    "response": "We actively support: 1) Creating elephant corridors in Wayanad by purchasing buffer zone land. 2) Funding the Nilgiri Langur Conservation Project. 3) Maintaining shade-grown canopies that host 120+ bird species. 4) Using only bird-friendly pest management. 2% of our profits go to Western Ghats conservation NGOs."
+  },
+  {
+    "prompt": "What is the history of coffee in Kerala?",
+    "response": "Coffee came to Kerala in 17th century via Baba Budan who smuggled 7 beans from Yemen to Chikmagalur. Kerala's hills proved perfect. The British established large estates in 19th century. The unique 'monsooning' process was discovered accidentally when beans shipped to Europe absorbed sea moisture, creating a new flavor profile that became prized worldwide."
+  },
+  {
+    "prompt": "Why is it called 'meter coffee'?",
+    "response": "'Meter coffee' refers to the traditional pouring style where the coffee is poured from a davara (container) into the tumbler from a height of about one meter. This aerates the coffee, creates perfect froth, and cools it to ideal drinking temperature. It's an art form - our baristas train for months to perfect the one-meter pour without spilling!"
+  },
+  {
+    "prompt": "What is the significance of davara-tumbler?",
+    "response": "The davara (wide brimmed bowl) and tumbler (cup) set is integral to South Indian coffee culture. The davara allows for cooling and mixing of decoction, milk, and sugar. The tumbler holds the final drink. Traditionally made of stainless steel, it's durable, hygienic, and the clinking sound is nostalgic. It represents community - coffee is always shared, never drank alone."
+  },
+  {
+    "prompt": "How do I change my delivery address for an existing order?",
+    "response": "Log into your account > Order History > Select order > 'Change Address' if order is not yet 'Out for Delivery'. For orders already dispatched, call our dispatch immediately at +91-XXX-XXXX with order number. We'll contact the delivery executive. Address changes within same delivery zone are free; different zones may incur ₹20 charge."
+  },
+  {
+    "prompt": "How do I apply a promo code?",
+    "response": "At checkout page, look for 'Have a promo code?' box below order summary on right side. Enter code and click Apply. The discount will reflect immediately. If code isn't working, ensure: 1) It's typed correctly. 2) Minimum order value is met. 3) It hasn't expired. 4) It applies to items in cart. Contact care if issues persist."
+  },
+  {
+    "prompt": "I received wrong item in my order.",
+    "response": "We sincerely apologize. Please email wrongitem@keralacoffee.com within 2 hours of delivery with: 1) Order number. 2) Photo of received item. 3) What you ordered. We will dispatch correct item immediately at no cost, let you keep the wrong item, and give you 30% off next order. Our quality team will investigate the picking error."
+  },
+  {
+    "prompt": "Can I get GST invoice for corporate order?",
+    "response": "Absolutely. GST invoice is generated automatically for all orders above ₹2000. For orders below, request at checkout in 'Special Instructions' or email invoices@keralacoffee.com post-delivery with order number and company GSTIN. We provide 18% GST invoices. For regular corporate accounts, we provide monthly consolidated invoices."
+  },
+  {
+    "prompt": "Do your products contain nuts or gluten?",
+    "response": "Our pure coffee beans are nut-free and gluten-free. However: 1) Our kitchen processes nuts for some pastries. 2) Some spice blends may contain trace nuts. 3) Equipment is shared. While we clean thoroughly, we cannot guarantee zero cross-contamination. If you have severe allergies, we recommend whole beans only and avoiding our bakery items."
+  },
+  {
+    "prompt": "What grinder do you recommend for home?",
+    "response": "For beginners: Timemore C2 manual grinder (₹3,500). For electric: Baratza Encore (₹12,000). For espresso: Eureka Mignon Manuale (₹25,000). We recommend burr grinders over blade for consistency. We sell curated grinders on our site with 6-month warranty. Bring your grinder to our shop for free calibration with our beans."
+  },
+  {
+    "prompt": "Which espresso machine works with your beans?",
+    "response": "Our beans work well with most machines. Recommended: 1) Entry: Breville Bambino Plus (₹35,000). 2) Mid: Gaggia Classic Pro (₹45,000). 3) Prosumer: Rancilio Silvia (₹65,000). We offer machine- bean pairing sessions at our workshop. Avoid super-automatic machines as they can't handle our oily dark roasts well."
+  },
+  {
+    "prompt": "How does water affect coffee taste?",
+    "response": "Water is 98% of your brew! Ideal water: 150ppm hardness, pH 7.0. Hard water makes coffee dull; soft water makes it sour. We recommend filtered water (not RO as it's too pure). Add a pinch of Himalayan pink salt to RO water. We sell Third Wave Water mineral packets that perfect 1 liter of distilled water for ₹50 each."
+  },
+  {
+    "prompt": "How do I clean my coffee equipment?",
+    "response": "Weekly: 1) Grinder: Use Grindz tablets. 2) Espresso machine: Backflush with Cafiza. 3) French press: Baking soda soak. 4) South Indian filter: Boil in vinegar water. Daily: Rinse all parts. Never use soap on porous materials. We sell cleaning kits and offer free cleaning workshops every Sunday at our store."
+  },
+  {
+    "prompt": "What are tasting notes of Wayanad Robusta?",
+    "response": "Our Wayanad Robusta Premium offers: Primary: Dark chocolate, black pepper, toasted walnut. Secondary: Tamarind tang, molasses, cedar. Mouthfeel: Heavy, syrupy body with long finish. Acidity: Low. Best for: Strong filter coffee, milk drinks. Score: 86.5. Try it alongside milk chocolate to bring out the cocoa notes."
+  },
+  {
+    "prompt": "How do I do home cupping?",
+    "response": "Simple home cupping: 1) Take 12g freshly ground coffee of each type. 2) Add 200ml 94°C water. 3) Wait 4 minutes. 4) Break crust with spoon, smell. 5) Slurp loudly to aerate. 6) Note: Fragrance, flavor, aftertaste, acidity, body, balance. We sell cupping sets (5 spoons, bowls, kettle) and host virtual guided cuppings monthly."
+  },
+  {
+    "prompt": "What is caffeine content in your blends?",
+    "response": "Per 180ml cup: 1) Filter Coffee Blend: 120mg. 2) Espresso Blend: 140mg. 3) Single-Origin Arabica: 80mg. 4) Single-Origin Robusta: 180mg. 5) Decaf: <5mg. Our cold brew has 200mg due to concentration. Pregnant women should limit to 1 cup daily. Athletes: Drink espresso 30 minutes pre-workout for performance boost."
+  },
+  {
+    "prompt": "Do you have low-acid options for sensitive stomachs?",
+    "response": "Yes, three low-acid options: 1) Monsooned Malabar (pH 5.8 vs typical 4.8). 2) Cold brew (60% less acid). 3) Espresso with dash of baking soda. We also offer 'Stomach-Friendly Bundle' with these plus digestive spices. Those with GERD report tolerating our Malabar well. Consult doctor if severe sensitivity."
+  },
+  {
+    "prompt": "Does coffee interact with medications?",
+    "response": "Coffee can interact with: 1) Thyroid medications - take coffee 1 hour after pill. 2) Antibiotics like Ciprofloxacin. 3) Blood thinners. 4) Some antidepressants. We're not medical professionals - please consult your doctor about caffeine intake with your specific medications. We provide caffeine content details for informed decisions."
+  },
+  {
+    "prompt": "Where can I see customer reviews?",
+    "response": "Reviews on: 1) Our website (verified purchases only). 2) Google Business (4.8 stars). 3) Zomato/Swiggy for delivery. 4) Instagram highlights (@keralacoffee). We showcase 'Customer of the Month' photos in-store. Submit your review with photo to get 10% off next order."
+  },
+  {
+    "prompt": "Do you host tasting events?",
+    "response": "Yes! Monthly events: 1) 'Cupping Saturday' - taste 5 new coffees (₹500). 2) 'Brewing Masterclass' - learn equipment (₹1000). 3) 'Latte Art Basics' (₹1500). 4) 'Coffee & Chocolate Pairing' (₹1200). All include take-home beans. Members get 50% off. Check Events page for schedule. Private group sessions (min 8 people) available."
+  },
+  {
+    "prompt": "What's your most expensive coffee?",
+    "response": "Our 'Reserve Lot - Wild Civet Coffee' is ₹12,000 for 100g. Naturally processed by wild civets in Wayanad forests (ethical, no caging). Only 5kg harvested annually. Tastes of jackfruit, dark cherry, and pipe tobacco. Served as pour-over in-store by appointment only. Comes with certificate of authenticity and GPS coordinates of collection."
+  },
+  {
+    "prompt": "Can I get coffee ground for French press?",
+    "response": "Absolutely! Select 'French Press Grind' at checkout - coarse grind like breadcrumbs. We grind fresh upon order. For best results, use within 2 weeks. Ratio: 1:15 coffee to water (e.g., 30g coffee for 450ml water). Steep 4 minutes, press slowly. Our medium roast blends work best with French press."
+  },
+  {
+    "prompt": "Do you have sugar-free syrups?",
+    "response": "Yes, we offer three sugar-free syrup options: 1) Vanilla (stevia-based). 2) Caramel (monk fruit). 3) Hazelnut (erythritol). All have <5 calories per serving. Add to any drink for ₹30 extra. We also have natural sweetness options like date puree or coconut sugar at no extra cost."
+  },
+  {
+    "prompt": "What's your morning vs evening coffee recommendation?",
+    "response": "Morning: Our Filter Coffee Blend or Espresso Blend for caffeine kick. Evening: Single-origin light roast pour-over or decaf. Avoid Robusta after 4 PM if sensitive to caffeine. Our 'Sunset Brew' is a half-caff blend perfect for evenings. Remember, caffeine's half-life is 5-6 hours."
+  },
+  {
+    "prompt": "How fresh are your beans?",
+    "response": "We roast every Tuesday and Friday. Beans ship within 24 hours of roasting. You'll receive them 2-5 days post-roast - peak freshness window (7-21 days post-roast). Roast date is stamped on bag. For absolute freshest, visit our store on roasting days to smell and buy warm beans!"
+  },
+  {
+    "prompt": "Do you sell instant coffee?",
+    "response": "We sell 'Freeze-Dried Instant Coffee' made from our Espresso Blend. It's 100% coffee with no additives. Dissolves in hot or cold water. Jar of 50g (50 cups) for ₹800. Perfect for travel. Much higher quality than commercial instant - tastes remarkably close to fresh brewed. Samples available in-store."
+  },
+  {
+    "prompt": "What's your best gift under ₹500?",
+    "response": "Our 'Mini Explorer Pack' at ₹450: Contains 50g each of 3 different beans (Arabica, Robusta, Blend) in beautiful muslin bags with tasting notes. Add a handwritten note for free. Other options: Ceramic mug (₹350), Reusable tumbler (₹400), or Gift card (any value). All gift wrapped."
+  },
+  {
+    "prompt": "How do you ensure consistency in blends?",
+    "response": "We use: 1) Computerized roasting profiles saved for each blend. 2) Weekly cupping of batches by our Q-Grader. 3) Precise weighing of bean ratios (digital scales to 0.1g). 4) Climate-controlled storage. 5) Regular equipment calibration. Our blends vary <2% batch to batch. Taste is guaranteed."
+  },
+  {
+    "prompt": "Can kids drink your coffee?",
+    "response": "We offer 'Junior Kaapi' - a weak decoction with more milk and jaggery, served warm. Recommended for ages 8+ in small quantities. Also caffeine-free options: Roasted barley coffee (barley, chicory, nuts) or our 'Golden Milk' (turmeric latte). Please consult pediatrician regarding caffeine for children."
+  },
+  {
+    "prompt": "What's the difference between filter coffee and espresso?",
+    "response": "Filter coffee (our South Indian style): Coarser grind, longer brew time (15-20 min), uses percolation, produces 120ml strong decoction diluted with milk. Espresso: Fine grind, high pressure, 25-30 seconds, produces 30ml concentrated shot. Filter coffee has more caffeine per serving but less concentrated flavor. Both have unique cultural significance."
+  },
+  {
+    "prompt": "Do you offer coffee tasting flights?",
+    "response": "Yes! Our 'Kerala Coffee Journey' flight (₹600): 1) Light roast pour-over. 2) Filter coffee. 3) Espresso. 4) Spiced latte. Served with tasting notes and pairing chocolate. 'Single-Origin Flight' (₹800): Compare same bean as pour-over, French press, and espresso. Available in-store only. Great for beginners!"
+  },
+  {
+    "prompt": "How do you support coffee farmers?",
+    "response": "Beyond fair pay: 1) Annual bonus based on our profits. 2) Education scholarships for farmers' children. 3) Health camps at estates. 4) Solar panel installations for farmer homes. 5) Crop insurance premiums paid. We're transparent - each bag shows farmer name and premium paid above market rate. Visit our 'Meet Our Farmers' section."
+  },
+  {
+    "prompt": "What's your return rate?",
+    "response": "Our customer return rate is <0.5%. Most returns are for delivery issues, not product quality. We have 4.8/5 average rating across platforms. Our most common compliment is consistency. We take every complaint seriously and use it to improve. Quality is our obsession."
+  },
+  {
+    "prompt": "Can I customize my own spice blend for coffee?",
+    "response": "Yes! At our 'Spice Bar' in-store or online configurator: Choose base (cardamom, ginger, cinnamon, cloves, pepper, nutmeg) and proportions. We grind fresh and pack in 50g jars (₹300). Name your creation! Popular combos: 'Winter Warmth' (ginger-cardamom), 'Digestive Aid' (ginger-pepper), 'Sweet Spice' (cinnamon-nutmeg)."
+  },
+  {
+    "prompt": "What happens during coffee roasting?",
+    "response": "We roast in small batches: 1) Drying phase (yellowing). 2) First crack (beans pop, light roast). 3) Development (medium roast). 4) Second crack (dark roast). We monitor temperature curve carefully. Different beans need different profiles. Our roaster has 15 years experience. Watch through our viewing window on roasting days!"
+  },
+  {
+    "prompt": "How many cups from 250g beans?",
+    "response": "Depends on method: 1) Filter coffee: 30 cups (8g per cup). 2) Espresso: 25 shots (10g per shot). 3) French press: 15 cups (16g per cup). 4) Pour-over: 20 cups (12g per cup). Each bag has a handy guide. Subscribe based on your consumption - we help calculate frequency."
+  },
+  {
+    "prompt": "Do you offer barista training?",
+    "response": "We offer: 1) Home Barista (2 days, ₹5000): basics of brewing. 2) Professional (5 days, ₹15000): espresso, latte art, equipment maintenance. 3) South Indian Filter Masterclass (1 day, ₹3000). Certification provided. We've trained 200+ home enthusiasts and 50+ cafe staff. Private sessions available."
+  },
+  {
+    "prompt": "What's your environmental impact?",
+    "response": "We're carbon negative: 1) Solar panels power our roastery. 2) Electric delivery vehicles. 3) Compost all coffee grounds (collect at store for your garden!). 4) Plant 10 trees for every 100kg sold (planted 5000+ so far). 5) Zero waste to landfill. Our annual sustainability report details our progress."
+  },
+  {
+    "prompt": "Can I visit your roastery?",
+    "response": "Yes! Roastery tours every Saturday at 11 AM. ₹200 per person (redeemable against purchase). See: 1) Green bean storage. 2) Roasting process. 3) Quality lab. 4) Packaging. 5) Tasting session. Maximum 10 people, book online. Must wear closed shoes. Children above 12 welcome with adult."
+  },
+  {
+    "prompt": "What payment methods do you accept?",
+    "response": "We accept: 1) All credit/debit cards. 2) UPI (PhonePe, GPay, Paytm). 3) Net banking. 4) Cash on delivery (max ₹5000). 5) EMI on cards for orders above ₹3000. 6) Corporate invoices (net 30). All payments secure via Razorpay. We don't store payment details."
+  },
+  {
+    "prompt": "How do you select which estates to work with?",
+    "response": "Rigorous process: 1) Cup score above 84. 2) Visit estate - check farming practices. 3) Verify worker conditions. 4) Test soil and water. 5) Trial roast multiple batches. 6) Only 1 in 20 estates make the cut. We work with 12 estates currently, all multi-generation family farms with sustainable practices."
+  },
+  {
+    "prompt": "What's your policy on tipping?",
+    "response": "Tipping is optional but appreciated. 100% of tips go to staff (baristas, delivery personnel). You can tip: 1) Cash to staff. 2) Add tip at checkout online. 3) Round up bill in-store. Our staff are paid fair wages regardless. Tip jar is transparent - emptied daily and divided equally among staff on shift."
+  },
+  {
+    "prompt": "Do you have any coffee with fruity notes?",
+    "response": "Our Pulney Hills Arabica has distinct fruity notes: blueberry, red grape, and lemongrass with tea-like body. Also try our experimental 'Natural Process' Robusta from Chikmagalur - tastes of tropical fruit and wine. Light roast, best as pour-over or cold brew. Limited batches available seasonally."
+  },
+  {
+    "prompt": "How do you make cold brew concentrate?",
+    "response": "Our ratio: 1:4 coffee to water (e.g., 100g coarse grind to 400ml cold filtered water). Steep in fridge for 18-24 hours. Strain through cheesecloth. Concentrate keeps 2 weeks refrigerated. Dilute 1:3 with water/milk. Our Cold Brew Kit includes everything needed plus recipe cards for ₹1500."
+  },
+  {
+    "prompt": "What's your employee count?",
+    "response": "We're a team of 42: 2 master roasters, 8 baristas, 6 delivery personnel, 4 customer care, 3 in quality control, 5 in procurement, 4 in admin/accounts, 3 in marketing, 2 drivers, 5 kitchen staff. All full-time with benefits. We're proud to be a living wage employer - pay 30% above industry average."
+  },
+  {
+    "prompt": "Can you do custom roast levels?",
+    "response": "For orders above 5kg, we offer custom roast levels: Light (City), Medium (Full City), Dark (French). Specify your preference at checkout or email roasting@keralacoffee.com. We'll send a small sample first for approval. Additional ₹100/kg charge for custom roasting. Popular for cafes with specific flavor profiles."
+  },
+  {
+    "prompt": "What coffee do you drink?",
+    "response": "Our founder drinks Monsooned Malabar black every morning. Our head roaster prefers Pulney Hills pour-over. Most baristas start their shift with a double espresso of our God's Own blend. We all believe in drinking what we sell - it ensures we love every product! Ask any staff member their favorite - they'll gladly share."
+  },
+  {
+    "prompt": "How do I become a coffee taster for you?",
+    "response": "We hire Q-Graders through formal channels, but welcome customer feedback! Join our 'Coffee Taster Panel' - taste new batches and give feedback for discounts. Apply on our website. No experience needed, just passion. Selected panelists get free coffee monthly in exchange for detailed tasting notes."
+  },
+  {
+    "prompt": "What's the ideal water temperature for brewing?",
+    "response": "Ideal temperatures: 1) Light roast: 94-96°C. 2) Medium roast: 92-94°C. 3) Dark roast: 88-92°C. 4) Cold brew: room temp or cold. Boiling water (100°C) scorches coffee. Use thermometer or kettle with temperature control. We sell gooseneck kettles with precise temp control from ₹2500."
+  },
+  {
+    "prompt": "Do you offer coffee for hotels?",
+    "response": "Yes! Hotel packages: 1) In-room coffee sachets with custom branding. 2) Lobby coffee station with our barista. 3) Restaurant supply with training. 4) Minibar options. 5) Turn-down service chocolates infused with our coffee. We supply to 8 boutique hotels. Email hotels@keralacoffee.com for our hotel portfolio."
+  },
+  {
+    "prompt": "What's your expansion plan?",
+    "response": "Current focus: 1) Open 2 more stores in city this year. 2) Launch in Bangalore and Mumbai next year. 3) Export to Singapore and Dubai. 4) Develop ready-to-drink canned cold brew. 5) Start coffee tourism packages in Kerala. We grow slow to maintain quality. Investors can contact investors@keralacoffee.com."
+  },
+  {
+    "prompt": "How do you handle complaints?",
+    "response": "All complaints go directly to founder. Process: 1) Acknowledge within 2 hours. 2) Investigate within 24 hours. 3) Resolve within 48 hours. 4) Follow up in 1 week. We see complaints as opportunities to improve. Many complainants become our most loyal customers after resolution. Transparency is key."
+  },
+  {
+    "prompt": "What's your vision?",
+    "response": "To make Kerala's coffee heritage global while: 1) Farmers earn prosperous livelihoods. 2) Customers experience unprecedented quality. 3) Environment is regenerated. 4) Coffee culture becomes more mindful and less commoditized. In 10 years, we want 'Kerala' to be synonymous with 'world-class coffee' like Colombia or Ethiopia."
+  }
+]
